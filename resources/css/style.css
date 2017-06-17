@@ -1,0 +1,19 @@
+body{
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+  h1{
+    color: white;
+  }
+#download{
+  color:aquamarine;
+}
+#botright
+{
+  text-align: right;
+  color: gray;
+}
+#gray{
+  color:gray;
+}
